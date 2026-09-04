@@ -14,7 +14,7 @@
 - 🎓 B.Tech Computer Science & Engineering @ **Birla Institute of Technology, Mesra** (2023–2027) — CGPA 8.57
 - 💻 I build **full-stack web applications** and **AI/LLM-powered systems** — from RAG pipelines to production dashboards
 - 🤖 Currently exploring: Generative AI, RAG, Vector Search, and LLM integration
-- 🏆 Solved 300+ DSA problems across LeetCode, GeeksforGeeks & Codeforces
+- 🏆 Solved 350+ DSA problems across LeetCode, GeeksforGeeks & Codeforces
 - 📫 Reach me at **satyarth8292218622@gmail.com**
 
 ---
